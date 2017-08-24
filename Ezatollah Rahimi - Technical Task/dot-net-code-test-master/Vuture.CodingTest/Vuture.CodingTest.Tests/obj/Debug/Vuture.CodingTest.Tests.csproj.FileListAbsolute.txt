@@ -1,0 +1,10 @@
+C:\Users\Ezat\Documents\C# Exercise\dot-net-code-test-master\dot-net-code-test-master\Vuture.CodingTest\Vuture.CodingTest.Tests\bin\Debug\Vuture.CodingTest.Tests.dll
+C:\Users\Ezat\Documents\C# Exercise\dot-net-code-test-master\dot-net-code-test-master\Vuture.CodingTest\Vuture.CodingTest.Tests\bin\Debug\Vuture.CodingTest.Tests.pdb
+C:\Users\Ezat\Documents\C# Exercise\dot-net-code-test-master\dot-net-code-test-master\Vuture.CodingTest\Vuture.CodingTest.Tests\bin\Debug\Moq.dll
+C:\Users\Ezat\Documents\C# Exercise\dot-net-code-test-master\dot-net-code-test-master\Vuture.CodingTest\Vuture.CodingTest.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Ezat\Documents\C# Exercise\dot-net-code-test-master\dot-net-code-test-master\Vuture.CodingTest\Vuture.CodingTest.Tests\bin\Debug\Moq.xml
+C:\Users\Ezat\Documents\C# Exercise\dot-net-code-test-master\dot-net-code-test-master\Vuture.CodingTest\Vuture.CodingTest.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Ezat\Documents\C# Exercise\dot-net-code-test-master\dot-net-code-test-master\Vuture.CodingTest\Vuture.CodingTest.Tests\obj\Debug\Vuture.CodingTest.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Ezat\Documents\C# Exercise\dot-net-code-test-master\dot-net-code-test-master\Vuture.CodingTest\Vuture.CodingTest.Tests\obj\Debug\Vuture.CodingTest.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Ezat\Documents\C# Exercise\dot-net-code-test-master\dot-net-code-test-master\Vuture.CodingTest\Vuture.CodingTest.Tests\obj\Debug\Vuture.CodingTest.Tests.dll
+C:\Users\Ezat\Documents\C# Exercise\dot-net-code-test-master\dot-net-code-test-master\Vuture.CodingTest\Vuture.CodingTest.Tests\obj\Debug\Vuture.CodingTest.Tests.pdb

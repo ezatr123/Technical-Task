@@ -1,0 +1,6 @@
+C:\Users\Ezat\Documents\C# Exercise\dot-net-code-test-master\dot-net-code-test-master\Vuture.CodingTest\Vuture.CodingTest.Business\bin\Debug\Vuture.CodingTest.Business.dll
+C:\Users\Ezat\Documents\C# Exercise\dot-net-code-test-master\dot-net-code-test-master\Vuture.CodingTest\Vuture.CodingTest.Business\bin\Debug\Vuture.CodingTest.Business.pdb
+C:\Users\Ezat\Documents\C# Exercise\dot-net-code-test-master\dot-net-code-test-master\Vuture.CodingTest\Vuture.CodingTest.Business\obj\Debug\Vuture.CodingTest.Business.csprojResolveAssemblyReference.cache
+C:\Users\Ezat\Documents\C# Exercise\dot-net-code-test-master\dot-net-code-test-master\Vuture.CodingTest\Vuture.CodingTest.Business\obj\Debug\Vuture.CodingTest.Business.csproj.CoreCompileInputs.cache
+C:\Users\Ezat\Documents\C# Exercise\dot-net-code-test-master\dot-net-code-test-master\Vuture.CodingTest\Vuture.CodingTest.Business\obj\Debug\Vuture.CodingTest.Business.dll
+C:\Users\Ezat\Documents\C# Exercise\dot-net-code-test-master\dot-net-code-test-master\Vuture.CodingTest\Vuture.CodingTest.Business\obj\Debug\Vuture.CodingTest.Business.pdb
